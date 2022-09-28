@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Frasi</title>
+    <link>https://levingtonwest.github.io/categories/</link>
+    <description>Recent content in Categories on Frasi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 27 Sep 2022 07:04:25 +0000</lastBuildDate><atom:link href="https://levingtonwest.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amore</title>
+      <link>https://levingtonwest.github.io/categories/amore/</link>
+      <pubDate>Tue, 27 Sep 2022 07:04:25 +0000</pubDate>
+      
+      <guid>https://levingtonwest.github.io/categories/amore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
